@@ -1,7 +1,7 @@
 ---
 title: "Shared and Adaptive Unequal Multi-Path Protection in Inter-Datacenter Optical Networks"
-collection: publications
-category: manuscripts
+authors: Yuanhao Liu, and Ning Deng
+publication_types: Journal
 date: 2026-05-01
 venue: 'Journal of Lightwave Technology'
 citation: 'Yuanhao Liu, and Ning Deng, “Shared and Adaptive Unequal Multi-Path Protection in Inter-Datacenter Optical Networks,” Journal of Lightwave Technology, Early Access Article, May 2026.'
