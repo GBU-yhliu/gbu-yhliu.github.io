@@ -11,14 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
+* 2019.09-2022.11: Joint Ph.D. in Computer Science (Informatique, ED 536)
+   * LIA Lab, Université d’Avignon
+   * Co-supervised by Prof. Fen Zhou (HDR) and Prof. Juan-Manuel Torres-Moreno (HDR)
+* 2018.03-2022.12: Ph.D. in Information and Telecommunications Engineering, School of Telecommunications Engineering, Xidian University
+   * Supervised by Prof. Tao Shang (Vice Dean of the School)
+* 2016.08–2018.03: M.S. in Information and Telecommunications Engineering, School of Telecommunications Engineering, Xidian University
+  * Supervised by Prof. Tao Shang (Vice Dean of the School)
+* 2012.08–2016.07: B.S. in Communications Engineering, School of Telecommunications Engineering, Xidian University
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* 2024.08-Pres.: Special-Term Research Fellow
+  * School of Computing and Information Technology, Great Bay University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
