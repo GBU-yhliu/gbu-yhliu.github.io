@@ -24,16 +24,16 @@ During his doctoral studies, Dr. Liu was awarded several prestigious scholarship
 
 - 2019.09 – 2022.11, Joint Ph.D. Degree (Computer Science)
     - Laboratoire Informatique d’Avignon (LIA), Université d’Avignon
-    Co-supervised by Prof. Fen Zhou (HDR) and Prof. Juan-Manuel Torres-Moreno (HDR)
+    - Co-supervised by Prof. Fen Zhou (HDR) and Prof. Juan-Manuel Torres-Moreno (HDR)
 
 - 2016.09 – 2022.12, Ph.D. Degree (Information and Telecommunications Engineering)
     - School of Telecommunications Engineering, Xidian University
-    Supervised by Prof. Tao Shang (Vice Dean of School of Telecommunications Engineering)
-    Successive postgraduate and doctoral programs
+    - Supervised by Prof. Tao Shang (Vice Dean of School of Telecommunications Engineering)
+    - Successive postgraduate and doctoral programs
 
 - 2016.09 – 2022.12, Ph.D. Degree (Information and Telecommunications Engineering)
     - School of Telecommunications Engineering, Xidian University
-    Teaching Reform Experimental Class
+    - Teaching Reform Experimental Class
 
 ## Representative Works
 
