@@ -45,7 +45,7 @@ author_profile: true
 
 - **Yuanhao Liu**, Shang Tao, Yan Gao, and Zanyang Dong, “Performance Analysis of Partial Transmission Cooperative Strategy with Unreliable Relays,” *EURASIP Journal on Wireless Communications and Networking*, vol. 2018, no. 1, pp. 198, August 2018.
 
-- Tao Shang, Renjie Chen, **Yuanhao Liu**, and Yan Gao, “Performance Analysis of IMC in FSO Systems Over Gamma-Gamma Channel,” *IEEE Photonics Journal*, vol. 10, no. 3, pp. 1-13, June. 2018.
+- Tao Shang, Renjie Chen, **Yuanhao Liu**, and Yan Gao, “Performance Analysis of IMC in FSO Systems Over Gamma-Gamma Channel,” *IEEE Photonics Journal*, vol. 10, no. 3, pp. 1-13, Jun. 2018.
 
 ### Under Review
 
