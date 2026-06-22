@@ -81,5 +81,5 @@ Dr. Liu is a Member of IEEE. His research focuses on **resilient optical network
 - **Reviewer**: 2023 IWCMC, 2022 18th WiMob, 2022 IEEE ISCC, 2020 IEEE GLOBECOM, 2019 6-th ICT-DM 2019
 
 ## Contact
-- **Email**: yhliu**AT**{gbu.edu}.cn
+- **Email**: yhliu **AT**{gbu.edu}.cn
 - **Address**: W503, Great Bay University, No.16 Daxue Road, Songshan Lake, Dongguan, Guangdong 523808, China
