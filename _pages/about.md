@@ -24,6 +24,7 @@ Dr. Liu is a Member of IEEE. His research focuses on **resilient optical network
 
 - 2024.08.01 –Pres., Special-Term Research Fellow
     - School of Computing and Information Technology, Great Bay University, China
+    - Optical Information and Communication Lab (led by Prof. Ning Deng, Optica Fellow)
 
 ## Educational Experience
 
